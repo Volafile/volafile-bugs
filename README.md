@@ -1,4 +1,4 @@
 volafile-bugs
 =============
 
-Volafile.io public bug tracker
+Report bugs on http://volafile.io here. Suggestions are also welcome.
