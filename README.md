@@ -13,3 +13,6 @@ https://twitter.com/volafile
 IRC
 ---
 If you want to watch commits to the volafile repository live or talk about volafile, join #volafile on freenode.
+
+
+<img src="http://a.pomf.se/2Mp6.png"></img>
