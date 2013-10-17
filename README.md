@@ -3,6 +3,8 @@ volafile-bugs
 
 Report bugs on http://volafile.io here. Suggestions are also welcome.
 
+(See <a href="https://github.com/binlain/volafile-bugs/issues">Issues tab</a>)
+
 Twitter
 -------
 In case of service outtakes we may post about them here:
